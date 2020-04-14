@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.util.xml.StaxSourceTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-13T11:25:46" hostname="DESKTOP-8IEUCIB" time="0.111">
+  <properties/>
+  <testcase name="streamReaderSourceToDOMResult" classname="org.springframework.util.xml.StaxSourceTests" time="0.018"/>
+  <testcase name="streamReaderSourceToStreamResult" classname="org.springframework.util.xml.StaxSourceTests" time="0.09"/>
+  <testcase name="eventReaderSourceToStreamResult" classname="org.springframework.util.xml.StaxSourceTests" time="0.002"/>
+  <testcase name="eventReaderSourceToDOMResult" classname="org.springframework.util.xml.StaxSourceTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

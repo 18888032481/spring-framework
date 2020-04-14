@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.ImportSelectorTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-13T11:26:46" hostname="DESKTOP-8IEUCIB" time="0.439">
+  <properties/>
+  <testcase name="correctMetaDataOnIndirectImports" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.036"/>
+  <testcase name="invokeAwareMethodsInImportGroup" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.009"/>
+  <testcase name="importSelectors" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.26"/>
+  <testcase name="invokeAwareMethodsInImportSelector" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.008"/>
+  <testcase name="importSelectorsWithGroup" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.069"/>
+  <testcase name="importSelectorsSeparateWithGroup" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

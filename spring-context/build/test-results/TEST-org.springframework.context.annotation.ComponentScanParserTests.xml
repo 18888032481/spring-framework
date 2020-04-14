@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.ComponentScanParserTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-13T11:26:43" hostname="DESKTOP-8IEUCIB" time="0.784">
+  <properties/>
+  <testcase name="componentScanWithAutowiredQualifier" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.023"/>
+  <testcase name="customTypeFilter" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.162"/>
+  <testcase name="aspectjTypeFilter" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.02"/>
+  <testcase name="componentScanRespectsProfileAnnotation" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.034"/>
+  <testcase name="aspectjTypeFilterWithPlaceholders" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.07"/>
+  <testcase name="matchingResourcePattern" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.018"/>
+  <testcase name="nonMatchingResourcePattern" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.287"/>
+  <testcase name="customAnnotationUsedForBothComponentScanAndQualifier" classname="org.springframework.context.annotation.ComponentScanParserTests" time="0.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

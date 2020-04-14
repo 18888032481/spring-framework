@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-13T11:26:57" hostname="DESKTOP-8IEUCIB" time="0.129">
+  <properties/>
+  <testcase name="testOnlyTargetClassIsExposed" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.023"/>
+  <testcase name="testComponentScan" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.021"/>
+  <testcase name="testPackagePrivateClassExtensionCanBeExposed" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.014"/>
+  <testcase name="testPackagePrivateExtensionCantBeExposed" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.014"/>
+  <testcase name="testLazyNaming" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.011"/>
+  <testcase name="testLazyAssembling" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.022"/>
+  <testcase name="testPlaceholderBased" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.011"/>
+  <testcase name="testPackagePrivateImplementationCantBeExposed" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.013"/>
+  <system-out><![CDATA[19:26:57.618 [Test worker] WARN  org.springframework.context.annotation.ConfigurationClassEnhancer - @Bean method LazyAssemblingConfiguration.ppc is non-static and returns an object assignable to Spring's BeanFactoryPostProcessor interface. This will result in a failure to process annotations such as @Autowired, @Resource and @PostConstruct within the method's declaring @Configuration class. Add the 'static' modifier to this method to avoid these container lifecycle issues; see @Bean javadoc for complete details.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

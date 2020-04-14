@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-13T11:24:33" hostname="DESKTOP-8IEUCIB" time="0.033">
+  <properties/>
+  <testcase name="testResolveWiringInfoWithAnInstanceOfAnAnnotatedClass" classname="org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests" time="0.023"/>
+  <testcase name="testResolveWiringInfoWithAnInstanceOfAnAnnotatedClassWithAutowiringTurnedOffExplicitlyAndCustomBeanName" classname="org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests" time="0.005"/>
+  <testcase name="testResolveWiringInfo" classname="org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests" time="0.0"/>
+  <testcase name="testResolveWiringInfoWithAnInstanceOfANonAnnotatedClass" classname="org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests" time="0.0"/>
+  <testcase name="testResolveWiringInfoWithAnInstanceOfAnAnnotatedClassWithAutowiringTurnedOffExplicitly" classname="org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
